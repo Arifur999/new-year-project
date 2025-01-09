@@ -29,7 +29,7 @@
     font-size: 40px;
 }
 
-/* section */
+ /* section 2 */
 .offer {
     text-align: center;
     justify-content: center;
@@ -86,4 +86,41 @@
 .description h1{
     font-size: 64px;
 
+}
+/* section 4 */
+.fourth{
+    background-color: #c8bfbfa4;
+    width: 1250px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 50px auto;
+    gap: 10px;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 40px 40PX 70PX 40PX;
+
+}
+.dtl{
+    color: #FF0000;
+}
+.btn{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FF0000;
+    margin: 0px;
+    color: #FFFFFF;
+    padding: 8PX;
+    margin-top: 35px;
+    border-radius: 5px;
+    border: 0;
+}
+/* section 5 */
+.five-hero{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 90px;
+}
+.five-drs{
+    max-width: 35%;
 }

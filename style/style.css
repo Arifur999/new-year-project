@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-radius: 0px;
+}
+
+/* section 1 */
+.hero {
+    background-image: linear-gradient(0deg, #07021184, #07021184), url("../images/Banner\ Image.png");
+    color: white;
+    text-align: center;
+    height: 600px;
+    width: 1320px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bolder;
+
+
+}
+
+.hero h1 {
+    font-size: 50px;
+}
+
+.hero h4 {
+    font-size: 40px;
+}
+
+/* section */
+.offer {
+    text-align: center;
+    justify-content: center;
+    margin: 60px auto;
+
+}
+
+.offer h1 {
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.offer p {
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+
+.offer h3 {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+ /* section 3 */
+
+.thard {
+    background-image: linear-gradient(100deg,#070211a5,#0702115b), url("../images/Vectorrr.png");
+    width: 1320px;
+    /* height: 600px; */
+    margin: 0 auto;
+}
+
+.mid {
+    text-align: right;
+    padding-right: 80px;
+}
+
+.thard-hero {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.description h1{
+    font-size: 64px;
+
+}
